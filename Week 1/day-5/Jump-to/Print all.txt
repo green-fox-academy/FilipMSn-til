@@ -1,0 +1,8 @@
+﻿Jump-to.exe (CoreCLR: DefaultDomain): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Private.CoreLib.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Jump-to.exe (CoreCLR: clrhost): Načteno C:\Users\Max\Greenfox\Jump-to\Jump-to\bin\Debug\netcoreapp3.1\Jump-to.dll. Symboly byly načteny.
+Jump-to.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Runtime.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Jump-to.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Console.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Jump-to.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Threading.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Jump-to.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Runtime.Extensions.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Jump-to.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Text.Encoding.Extensions.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Program '[1448] Jump-to.exe' skončil s kódem 0 (0x0).

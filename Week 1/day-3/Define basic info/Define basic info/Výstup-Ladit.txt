@@ -1,0 +1,8 @@
+﻿Define basic info.exe (CoreCLR: DefaultDomain): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Private.CoreLib.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Define basic info.exe (CoreCLR: clrhost): Načteno C:\Users\Max\Greenfox\Define basic info\Define basic info\bin\Debug\netcoreapp3.1\Define basic info.dll. Symboly byly načteny.
+Define basic info.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Runtime.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Define basic info.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Console.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Define basic info.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Threading.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Define basic info.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Runtime.Extensions.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Define basic info.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Text.Encoding.Extensions.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Program '[29348] Define basic info.exe' skončil s kódem 0 (0x0).

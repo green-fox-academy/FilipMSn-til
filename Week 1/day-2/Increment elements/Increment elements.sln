@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increment elements", "Increment elements\Increment elements.csproj", "{FF76C58F-B97A-45EC-AD4B-C8199022F4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF76C58F-B97A-45EC-AD4B-C8199022F4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF76C58F-B97A-45EC-AD4B-C8199022F4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF76C58F-B97A-45EC-AD4B-C8199022F4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF76C58F-B97A-45EC-AD4B-C8199022F4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40D6F4C5-3A00-41F3-97D0-C4977E8F6548}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+﻿Hello User.exe (CoreCLR: DefaultDomain): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Private.CoreLib.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Hello User.exe (CoreCLR: clrhost): Načteno C:\Users\Max\Greenfox\Hello User\Hello User\bin\Debug\netcoreapp3.1\Hello User.dll. Symboly byly načteny.
+Hello User.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Runtime.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Hello User.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Console.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Hello User.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Threading.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Hello User.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Runtime.Extensions.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Hello User.exe (CoreCLR: clrhost): Načteno C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Text.Encoding.Extensions.dll. Nahrávání symbolů se vynechalo. Modul je optimalizovaný a volba Pouze můj kód je povolená.
+Program '[30220] Hello User.exe' skončil s kódem 0 (0x0).
